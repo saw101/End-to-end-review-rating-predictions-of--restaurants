@@ -1,1 +1,1 @@
-
+The aim of this project is to predict the Review ratings of restautants that are connected with a Food delivery app (Zomato) based on features that are of high importance, by using the various Machine Learning models and finally deploying the best performing model in the local environment using the Flask framework
